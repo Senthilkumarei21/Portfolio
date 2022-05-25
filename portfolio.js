@@ -1,26 +1,26 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Hanzla Tauqeer",
-	title: "Hi all, I'm Hanzla",
+	name: "Senthilkumar ",
+	title: "Hi all, I'm senthillumar",
 	description:
-		"I'm passionate Full Stack web developer having an experience of web applications with Python, Django, React.js, Next.js and Blockchain development on Ethereum, Solidity, Web3.js, Moralis, and Brownie Framework.",
+		"I'm BITIAN",
 	resumeLink:
-		"https://drive.google.com/file/d/1Jj4QvvMMhRZQrxngrvlhmuTLhgcisaAp/view?usp=sharing",
+		"#",
 };
 
 export const openSource = {
-	githubUserName: "1hanzla100",
+	githubUserName: "sensakthi2003",
 };
 
 export const contact = {};
 
 export const socialLinks = {
-	facebook: "https://www.facebook.com/1hanzla100",
-	instagram: "https://www.instagram.com/1hanzla100",
-	twitter: "https://twitter.com/1hanzla100",
-	github: "https://github.com/1hanzla100",
-	linkedin: "https://www.linkedin.com/in/1hanzla100/",
+	facebook: "#",
+	instagram: "#",
+	twitter: "#",
+	github: "#",
+	linkedin: "#",
 };
 
 export const skillsSection = {
